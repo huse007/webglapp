@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/huse007/webglapp/master/src/img/rubic11.jpg)
+![alt text](https://raw.githubusercontent.com/huse007/webglapp/master/src/img/rubic11.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
